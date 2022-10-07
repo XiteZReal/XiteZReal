@@ -1,5 +1,4 @@
-### **Telegram** : [@XiteZReal](https://t.me/xitezreal) | **Discord** : Arvin#3108
-### **Twitter**  : [XiteZReal](https://twitter.com/XiteZReal) | **Github** : [XiteZReal](https://github.com/XiteZReal)
+### >> **Telegram** : [@XiteZReal](https://t.me/xitezreal) | >> **Github** : [XiteZReal](https://github.com/XiteZReal)
 ##
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xitezreal&show_icons=true&theme=github_dark)
-##
+| <a href="https://github.com/xitezreal"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xitezreal&theme=apprentice" alt="XiteZ Card 1" /></a> | <a href="https://github.com/xitezreal"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitezreal&theme=apprentice" /></a> |
+| - | - |
